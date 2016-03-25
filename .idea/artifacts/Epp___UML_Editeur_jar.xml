@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Epp___UML_Editeur:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Epp___UML_Editeur_jar</output-path>
+    <root id="archive" name="Epp_UML_Editeur.jar">
+      <element id="module-output" name="Epp_UML_Editeur" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/junit-4.11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
